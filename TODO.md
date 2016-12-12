@@ -1,0 +1,5 @@
+- demo similar to the precedent, simple and visual
+  - with monkey and all
+- note issue with mouseenter propagation  
+- publish on threex extensions
+- publish threex.loop 
